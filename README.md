@@ -66,7 +66,7 @@ Authorization: Bearer JWT_TOKEN
 ## 📦 Como Executar Localmente com Docker
 
 ```bash
-git clone https://github.com/seuusuario/express-js-jwt-full-authentication-api.git
+git clone https://github.com/douglascarlosmen/express-js-jwt-full-authentication-api.git
 cd express-js-jwt-full-authentication-api
 docker-compose up --build
 ```
@@ -89,4 +89,4 @@ A API estará disponível em:
 
 ## 📌 Licença
 
-MIT © [Seu Nome](https://github.com/seuusuario)
+MIT © [Douglas Men](https://github.com/douglascarlosmen)
